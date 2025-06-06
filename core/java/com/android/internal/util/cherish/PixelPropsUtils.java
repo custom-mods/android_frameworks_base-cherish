@@ -33,7 +33,6 @@ public class PixelPropsUtils {
     private static final Map<String, Object> propsToChangeOGPixelXL;
 
     private static final String[] packagesToChange = {
-            "com.android.vending",
             "com.breel.wallpapers20",
             "com.google.android.apps.customization.pixel",
             "com.google.android.apps.fitness",
